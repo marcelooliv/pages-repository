@@ -1,9 +1,12 @@
 *{
     box-sizing: border-box;
 }
+header{
+    width: 100%;
+}
 #cabecalho{
     color:aliceblue;
-    max-width: max-content;
+    
     padding-inline: 10px;
     font-family: verdana;
     font-weight: bold;
@@ -17,12 +20,28 @@ h1{
     border-radius: 0.3cm;
 }
 #conteudo-inicial{
-    background-color: white;
-    max-width: max-content;
-    padding-inline: 10px;
+    position: relative;
     font-size: 18px;
     font-family: arial;
-    margin-right: 40%;
+    width: 100%;
+    
+    
+}
+.content-bandas{
+    background-color: white;
+    padding-inline: 10px;
+    width: 40%;
+    display: inline-block;
+
+}
+#side-content{
+    background-color: black;
+    float: right;
+    padding: 15px;
+}
+.side-title{
+    background: gray;
+    padding: 10px;
 }
 #cabecalho-sobre{
     color: white;
@@ -81,18 +100,7 @@ a:visited{
 a:hover{
     background-color: rgb(78, 78, 78);
 }
-#side-content{
-    background-color: black;
-    
-    position: absolute;
-    left: 70%;
-    top: 665px;
-    padding: 15px;
-}
-.side-title{
-    background: gray;
-    padding: 10px;
-}
+
 li{
     background-color: rgba(255, 255, 255, 0.884);
     padding: 2px;
