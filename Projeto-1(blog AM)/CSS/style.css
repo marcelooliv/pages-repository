@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 #cabecalho{
     color:aliceblue;
     max-width: max-content;
