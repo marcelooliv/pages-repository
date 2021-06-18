@@ -9,7 +9,18 @@ Some stuffs i'm working on right now:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 [comment]: # (- Bulleted List)
 [comment]: # (1. Numbered List)
 [comment]: # (**Bold** and _Italic_ and `Code` text)
-[comment]: # ([Link ](url) and ![Image](src))
+[comment]: # ([Link](url) and ![Image](src))
