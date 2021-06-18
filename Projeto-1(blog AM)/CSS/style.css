@@ -37,7 +37,11 @@ h1{
     font-size: 18px;
     font-family: arial;
     border-radius: 0.5cm;
+    position: relative;
     
+}
+.imagens-about{
+    position: relative;
 }
 #fundo{
     background-color:black;
