@@ -9,14 +9,7 @@ Some stuffs i'm working on right now:
 
 
 
-< ```Configurações para lembrar depois:
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``` >
+[comment]: # (- Bulleted List)
+[comment]: # (1. Numbered List)
+[comment]: # (**Bold** and _Italic_ and `Code` text)
+[comment]: # ([Link ](url) and ![Image](src))
