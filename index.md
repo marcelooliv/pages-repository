@@ -4,8 +4,8 @@
 
 Some stuffs i'm working on right now:
 
-[Project 1](https://marcelooliv.github.io/pages-repository/project-1/) ps: nothing to show yet...
-[Project Blog AM](https://marcelooliv.github.io/pages-repository/Projeto-1(blog%20AM)/HTML/index.html)
+-[Project 1](https://marcelooliv.github.io/pages-repository/project-1/) ps: nothing to show yet...
+-[Project Blog AM](https://marcelooliv.github.io/pages-repository/Projeto-1(blog%20AM)/HTML/index.html)
 
 
 
