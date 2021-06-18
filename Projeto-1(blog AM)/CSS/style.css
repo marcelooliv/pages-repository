@@ -30,12 +30,13 @@ h1{
 .content-bandas{
     background-color: white;
     padding-inline: 10px;
-    width: 40%;
+    width: 50%;
     display: inline-block;
 
 }
 #side-content{
     background-color: black;
+    width: 30%;
     float: right;
     padding: 15px;
 }
