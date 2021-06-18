@@ -40,8 +40,9 @@ h1{
     position: relative;
     
 }
-.imagens-about{
+.imagens-bandas{
     position: relative;
+    width: min-content;
 }
 #fundo{
     background-color:black;
