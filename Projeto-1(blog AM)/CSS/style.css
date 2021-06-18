@@ -3,10 +3,10 @@
 }
 header{
     width: 100%;
+    margin-bottom: 1%;
 }
 #cabecalho{
     color:aliceblue;
-    
     padding-inline: 10px;
     font-family: verdana;
     font-weight: bold;
