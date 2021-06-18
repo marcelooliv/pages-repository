@@ -37,17 +37,15 @@ h1{
     width: 50%;
     max-width: max-content;
     display: inline-block;
-
+    clear: right;
 
 
 }
 #side-content{
     background-color: black;
     max-width: max-content;
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 15px;
+    padding: 5px;
+    float: right;
 }
 .side-title{
     background: gray;
