@@ -9,7 +9,7 @@ Some stuffs i'm working on right now:
 
 
 
-[ ```Configurações para lembrar depois:
+< ```Configurações para lembrar depois:
 - Bulleted
 - List
 
@@ -19,4 +19,4 @@ Some stuffs i'm working on right now:
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-``` > ]
+``` >
