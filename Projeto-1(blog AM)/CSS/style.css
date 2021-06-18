@@ -45,7 +45,7 @@ h1{
 }
 .imagens-bandas{
     position: relative;
-    width: min-content;
+    width: 50%;
 }
 #fundo{
     background-color:black;
